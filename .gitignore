@@ -1,0 +1,5 @@
+**/*.mp3
+**/*.wav
+checkpoint.pth
+__pycache__
+
